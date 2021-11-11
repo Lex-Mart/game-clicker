@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/game-clicker/static/css/main.95fff283.chunk.css",
+    "main.js": "/game-clicker/static/js/main.84f9550d.chunk.js",
+    "main.js.map": "/game-clicker/static/js/main.84f9550d.chunk.js.map",
+    "runtime-main.js": "/game-clicker/static/js/runtime-main.62439dcd.js",
+    "runtime-main.js.map": "/game-clicker/static/js/runtime-main.62439dcd.js.map",
+    "static/js/2.08107295.chunk.js": "/game-clicker/static/js/2.08107295.chunk.js",
+    "static/js/2.08107295.chunk.js.map": "/game-clicker/static/js/2.08107295.chunk.js.map",
+    "index.html": "/game-clicker/index.html",
+    "precache-manifest.2b9e9b70254da414f9138a9c9564014b.js": "/game-clicker/precache-manifest.2b9e9b70254da414f9138a9c9564014b.js",
+    "service-worker.js": "/game-clicker/service-worker.js",
+    "static/css/main.95fff283.chunk.css.map": "/game-clicker/static/css/main.95fff283.chunk.css.map",
+    "static/js/2.08107295.chunk.js.LICENSE.txt": "/game-clicker/static/js/2.08107295.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62439dcd.js",
+    "static/js/2.08107295.chunk.js",
+    "static/css/main.95fff283.chunk.css",
+    "static/js/main.84f9550d.chunk.js"
+  ]
+}
