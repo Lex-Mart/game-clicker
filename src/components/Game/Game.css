@@ -1,0 +1,21 @@
+.game {
+    width: 600px;
+    height: 800px;
+    background-color: white;
+    border-radius: 40px;
+
+    user-select: none;
+}
+
+.stats {
+    line-height: 1.4em;
+    font-size: 40px;
+    margin-top: 250px;
+    text-align: center;
+}
+
+.stats .btn {
+    margin-top: 40px;
+    width: 250px;
+    height: 55px;
+}

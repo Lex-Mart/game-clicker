@@ -1,0 +1,14 @@
+.gameField {
+    height: 500px;
+    width: 500px;
+    margin: 60px auto;
+    background-color: whitesmoke;
+    border: 1px solid rgba(128, 128, 128, 0.315);
+}
+
+.square {
+    cursor: pointer;
+    border: 1px solid grey;
+    position: relative;
+    /* transition: 0.15s linear; */
+}

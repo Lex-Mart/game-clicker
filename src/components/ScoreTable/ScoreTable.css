@@ -1,0 +1,72 @@
+.scoreTableWrap {
+    width: 555px;
+    height: 510px;
+    border: 2px solid grey;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.selectLevels {
+    display: flex;
+    height: 30px;
+    border: 1px solid grey;
+    border-radius: 20px;
+    overflow: hidden;
+    width: fit-content;
+    margin: 10px auto;
+}
+
+.selectLevel {
+    font-size: 20px;
+    cursor: pointer;
+    padding: 0 10px;
+}
+
+.selectLevel:nth-child(2) {
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+}
+
+.selectLevel.active {
+    background: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%) no-repeat;
+    color: white;
+}
+
+.scoreTable {
+    width: 545px;
+    height: 450px;
+    margin-left: 7px;
+
+    font-size: 20px;
+    text-align: center;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 2fr 3fr 2fr 2fr;
+    grid-auto-rows: 40px;
+}
+
+.scoreTableHead {
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.scoreTableBody {
+    overflow-y: scroll;
+    height: 93%;
+}
+
+.scoreTableBody::-webkit-scrollbar {
+    width: 12px;
+}
+
+.scoreTableBody::-webkit-scrollbar-thumb {
+    background-color: grey;
+    border-radius: 10px;
+    border: 3px solid rgb(255, 255, 255);
+}
+
+.scoreTableBody .item {
+    border-top: 1px solid rgba(128, 128, 128, 0.28);
+}

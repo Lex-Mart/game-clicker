@@ -1,0 +1,25 @@
+.menu {
+    width: 600px;
+    height: 800px;
+    background-color: white;
+    border-radius: 40px;
+}
+
+.option {
+    height: 140px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 35px 20px;
+}
+
+.br {
+    width: 100%;
+}
+
+.scores {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
